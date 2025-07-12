@@ -3,7 +3,7 @@ import './style.css';
     const root = document.getElementById('root');
 
     const iframe = document.createElement('iframe');
-    iframe.src = 'https://m.facebook.com';
+    iframe.src = 'https://craftzone.laserpecker.net/en/';
     iframe.style.width = '100%';
     iframe.style.height = '100vh';
     iframe.style.border = 'none';
